@@ -1,0 +1,8 @@
+#container{
+    display: none;
+}
+
+#container.visible{
+    display: block;
+    text-align: center;
+}
